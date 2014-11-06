@@ -6,3 +6,5 @@ execute pathogen#infect()
 :nmap j gj
 :nmap k gk
 :nmap <C-e> :e#<CR>
+:nmap <C-n> :bnext<CR>
+:nmap <C-p> :bprev<CR>
