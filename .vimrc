@@ -5,3 +5,4 @@ execute pathogen#infect()
 :nmap \o :set paste!<CR>
 :nmap j gj
 :nmap k gk
+:nmap <C-e> :e#<CR>
